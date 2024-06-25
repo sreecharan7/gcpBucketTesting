@@ -1,0 +1,5 @@
+file-reciver/uploads
+file-reciver/node_modules
+request-generator/node_modules
+observation
+file-reciver/gcp_auth.json
