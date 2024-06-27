@@ -1,4 +1,5 @@
-file-reciver/uploads
+file-reciver/uploads/*
+!file-reciver/uploads/.gitignore
 file-reciver/node_modules
 request-generator/node_modules
 observation
